@@ -6,6 +6,8 @@
 //  https://github.com/samvermette/SVProgressHUD
 //
 
+#defind SV_APP_EXTENSIONS
+
 #import <UIKit/UIKit.h>
 #import <AvailabilityMacros.h>
 
